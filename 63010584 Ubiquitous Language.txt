@@ -1,0 +1,41 @@
+- Telecommunication	
+
+1. Call Forwarding	: Direct call to another place	
+2. E Phone		      : Emergency Phone	
+3. TCO			: Purchase price of an asset and the costs of operation
+4. WAN			: Wide Area Network	
+5. VPN			: Virtual Private Network		
+6. IP				: Address of each device	
+7. TCP			: Protocol that control the transmission		
+8. DHCP			: Server that provide address to each device	
+9. Bandwidth		: Capacity of connection
+10.Network			: One or multiple connection	
+--------------------------------------------------------------------------------------------------------
+
+- Financial
+
+1. Bond			: A contract between a borrower and a lender in which the borrower promises to pay the face value at maturity and to pay interest at a specified rate at regular intervals. Also called a “debt security,” bonds are usually issued by government agencies, municipalities and corporations.	
+2. Active Screen		: Active screens for socially responsible or sustainability investors seek to minimize risk from certain behaviors or encourage specific corporate behaviors such as environmental stewardship, human rights, workplace, leadership and board diversity.	
+3. Balance Sheet		: A financial statement that shows the assets, liabilities and owners’ equity at a particular date.
+4. Capital Asset		: An economic resource that is owned or controlled by an entity or person. Some examples include cash, securities and real estate.	
+5. Capital Gain 		: An increase in the value of a capital asset, calculated by the difference in price at which an investment was purchased and the price at which it was sold. An unrealized capital gain is an investment that hasn’t been sold yet but would result in a profit if sold.		
+6. Broker			: An agent who handles the public’s orders to buy and sell securities, commodities or other property. For this service a commission or fee is charged.	
+7. Dividend			: A payment of cash or stock that is distributed to shareholders. Dividends are financed by profits, and are announced by the company’s board of directors before they are paid.		
+8. Green Bonds and Green Loans	: Debt instruments where the proceeds are used to fund or refinance specific projects, assets, or business activities with defined environmental benefits	
+9. Liquidity		: The ability to quickly convert an investment to cash without suffering a noticeable loss in value.
+10.Living Will		: A document, which allows people to specify in advance of an illness or injury medical treatments to be administered or withheld.	
+--------------------------------------------------------------------------------------------------------
+
+- Healthcare
+
+1. Cardiac arrest		: A cessation of the normal regular muscular contractions of the heart, meaning blood cannot be pumped around the body	
+2. LINAC		      : Linear accelerator, which is a device used for external beam radiation treatments for patients with cancer.
+3. Cardiopulmonary resuscitation (CPR)	: Involves the administration of live-saving chest compressions to someone who is not breathing or who has suffered a cardiac arrest.
+4. HCPC			: The Health and Care Professions Council. A regulatory body that maintains a register of a number of healthcare professions.
+5. ADHD			: The abbreviation for attention deficit hyperactivity disorder.		
+6. ERCP			: Endoscopic retrograde cholangiopancreatography (ERCP) is technique where a thin flexible tube with a light and camera is inserted via the mouth.	
+7. Aorta			: The largest artery in the body.	
+8. Electroencephalogram (EEG)		: A test to record the electrical activity of the brain.	
+9. CCT			: Certificate of completion of training. Confirms that a doctor has completed an approved training programme in the UK
+10.Doppler			: Doppler effect  is the change in frequency or wavelength of a wave.	
+--------------------------------------------------------------------------------------------------------
