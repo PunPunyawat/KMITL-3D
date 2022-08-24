@@ -1,2 +1,2 @@
-# KMITL-3D
+# KMITL-Soft Arch
 ENJOY 3D 👑
